@@ -1,0 +1,11 @@
+dist
+build
+doc/javadoc
+target
+.settings
+.DS_Store
+.classpath
+*.class
+*.log
+*~/
+*~
